@@ -1,0 +1,28 @@
+_repo: A-Short-History-of-Freethought-Ancient-and-Modern-Volume-2-of-2-Third-edition-Revised-and-Exp__52160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robertson, J. M. (John Mackinnon)
+    alias: Robertson, John Mackinnon
+    birthdate: 1856
+    deathdate: 1933
+    gutenberg_agent_id: '31403'
+    url: http://www.gutenberg.org/2009/agents/31403
+    wikipedia: http://en.wikipedia.org/wiki/John_M._Robertson
+description: ''
+gutenberg_issued: '2016-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Free thought -- History'
+- GITenberg
+title: 'A Short History of Freethought Ancient and Modern, Volume 2 of 2
+
+  Third edition, Revised and Expanded, in two volumes'
+url: http://www.gutenberg.org/ebooks/52160
